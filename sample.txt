@@ -1,2 +1,2 @@
 This is first commit.
-This is second line.
+This is feature1.
